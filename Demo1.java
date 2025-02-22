@@ -4,7 +4,7 @@ class Demo{
     
     }
 
-    public void m1(){
-        System.out.println("method m1");
+    public void payment(){
+        System.out.println("payment SUccesfully...");
     }
 }
