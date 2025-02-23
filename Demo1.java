@@ -11,4 +11,8 @@ class Demo{
     public void notifyUser(){
         System.out.println("Hello user");
     }
+
+    public void Auth(){
+        System.out.println("Authenticaton");
+    }
 }
